@@ -1,10 +1,19 @@
 #splash{
-    background-color: #383B43;
+    /*background-color: #383B43;*/
+    background-color: #ffff;
     height: 100vh;
 }
 
-img{
-	width: 100px;
-	height: 100px;
+#splash img{
+	padding:20%;
 }
 
+.container{
+    margin-top: 20px;
+    
+}
+.food-img{
+    width:200px;
+    height: 200px;
+    background-color: #646464;    
+}
